@@ -1,0 +1,9 @@
+.project
+app/node_modules/**/*
+app/build/**/*
+public/**/*
+**/*.chunk.js
+**/*.chunk.css
+.DS_Store
+yarn-error.log
+
