@@ -1,3 +1,8 @@
+## Demo
+
+
+[![demo](https://blog.konstankino.com/demo-redux-redux-thunk.gif)](https://blog.konstankino.com/demo-redux-redux-thunk.gif)
+
 ## Local
 
 1. Run the following command in a separate tab to build project dependencies.
@@ -11,3 +16,4 @@ make build
 ```bash
 make development
 ```
+
