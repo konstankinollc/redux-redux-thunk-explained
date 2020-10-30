@@ -1,7 +1,6 @@
 ## Demo
 
-
-[![demo](https://blog.konstankino.com/demo-redux-redux-thunk.gif)](https://blog.konstankino.com/demo-redux-redux-thunk.gif)
+This is a supplemental code for my [article on Medium](https://medium.com/@konstankino/2019-redux-and-redux-thunk-for-reactjs-explained-e249b70d6188).
 
 ## Local
 
